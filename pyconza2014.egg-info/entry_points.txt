@@ -1,3 +1,0 @@
-[console_scripts]
-pyconza2014 = pyconza2014.cli:main
-
