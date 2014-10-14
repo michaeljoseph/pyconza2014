@@ -7,4 +7,4 @@ __version__ = '0.1.0'
 
 
 def pyconza2014():
-    return 'Hello World!'
+    return 'Hello PyConZa 2014!'
