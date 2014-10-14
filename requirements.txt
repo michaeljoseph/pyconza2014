@@ -1,6 +1,6 @@
 changes < 1.0.0
 coverage < 4.0.0
-{% if cookiecutter.include_cli == 'yes' %}click < 2.1.0{% endif %}
+click < 2.1.0
 flake8 < 3.0.0
 mock < 2.0.0
 pytest < 2.6.0
