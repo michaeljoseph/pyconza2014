@@ -1,5 +1,9 @@
 # [Changelog](https://github.com/michaeljoseph/pyconza2014/releases)
 
+## [0.1.4](https://github.com/michaeljoseph/pyconza2014/compare/0.1.3...0.1.4)
+
+* [1ac97be](https://github.com/michaeljoseph/pyconza2014/commit/1ac97be) Add tox
+
 ## [0.1.3](https://github.com/michaeljoseph/pyconza2014/compare/0.1.2...0.1.3)
 
 * [9b9431f](https://github.com/michaeljoseph/pyconza2014/commit/9b9431f) michaeljoseph/ccc template updates
