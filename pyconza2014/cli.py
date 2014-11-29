@@ -2,8 +2,6 @@ import logging
 
 import click
 
-import pyconza2014
-
 log = logging.getLogger(__name__)
 
 
