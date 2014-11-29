@@ -39,3 +39,5 @@ nosetests.xml
 *.iml
 
 .travis-solo
+pyconza2014/.changes
+.changes
