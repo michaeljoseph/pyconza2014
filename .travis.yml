@@ -6,7 +6,7 @@ python:
 install:
     - pip install -r requirements.txt --use-mirrors
 script:
-    - nosetests --with-coverage --cover-package=pyconza2014
+    - py.test --durations=10 --cov pyconza2014 --cov-report term-missing tests
     - flake8 setup.py pyconza2014 tests
 after_success:
   - coveralls
