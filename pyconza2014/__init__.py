@@ -3,7 +3,7 @@
 __author__ = 'Michael Joseph'
 __email__ = 'michaeljoseph@gmail.com'
 __url__ = 'https://github.com/michaeljoseph/pyconza2014'
-__version__ = '0.1.4'
+__version__ = '0.1.6'
 
 
 def pyconza2014():

@@ -1,5 +1,10 @@
 # [Changelog](https://github.com/michaeljoseph/pyconza2014/releases)
 
+## [0.1.6](https://github.com/michaeljoseph/pyconza2014/compare/0.1.4...0.1.6)
+
+* [a92984f](https://github.com/michaeljoseph/pyconza2014/commit/a92984f) Linting
+* [72682eb](https://github.com/michaeljoseph/pyconza2014/commit/72682eb) py.test in travis-solo
+
 ## [0.1.4](https://github.com/michaeljoseph/pyconza2014/compare/0.1.3...0.1.4)
 
 * [1ac97be](https://github.com/michaeljoseph/pyconza2014/commit/1ac97be) Add tox
